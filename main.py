@@ -12,7 +12,7 @@ def rollDice(sides):
     if b == 'yes':
       continue
     else:
-      print('Bye! See you next time😍')
+      print('Bye! See you next time.😍')
       break
 no_of_sides = int(input('How many sides do you want your dice to have?: '))
 print()
